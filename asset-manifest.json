@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-history-app/static/css/main.f855e6bc.css",
+    "main.js": "/my-history-app/static/js/main.f5768425.js",
+    "static/js/453.5d2eeeba.chunk.js": "/my-history-app/static/js/453.5d2eeeba.chunk.js",
+    "static/media/logo.svg": "/my-history-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-history-app/index.html",
+    "main.f855e6bc.css.map": "/my-history-app/static/css/main.f855e6bc.css.map",
+    "main.f5768425.js.map": "/my-history-app/static/js/main.f5768425.js.map",
+    "453.5d2eeeba.chunk.js.map": "/my-history-app/static/js/453.5d2eeeba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f5768425.js"
+  ]
+}
